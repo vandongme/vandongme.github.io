@@ -1,9 +1,9 @@
 <?php
 
 // Url trang chủ
-$base_url = 'https://www.lolivn.com';
+$base_url = 'https://www.vandong.me';
 // Tiêu đề
-$tieude = 'Lolivn.Com';
+$tieude = 'VanDong.Me';
 // Vô hiệu hóa caching.
 header('Cache-Control: no-cache, no-store, must-revalidate');
 header('Pragma: no-cache');
